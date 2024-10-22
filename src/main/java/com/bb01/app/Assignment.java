@@ -8,6 +8,16 @@ package com.bb01.app;
  * 
  * Casting: Returns a new float initialized to the value represented by the specified String.
  * 
+ * Results of the following code:
+ * round prints 9
+  typeof price java.lang.Float
+  typeof round java.lang.Integer
+  priceAsString prints 9.9
+  typeof priceAsString java.lang.String
+  true
+  number prints 9
+  typeof number java.lang.Integer
+ * 
  */
 public class Assignment {
   public static void main() {
