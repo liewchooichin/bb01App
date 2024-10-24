@@ -1,14 +1,12 @@
 package com.bb01.app;
+import com.bb01.app.lesson31.AppLesson31;
+import com.bb01.app.lesson32.AppLesson32;
 
-/**
- * Hello world!
- */
+
 public class App {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-        //System.out.println("You entered: " + args[0]);
-        Main.main();
-        LearnDataTypes.main(new String[] {"100"});
-        Assignment.main();
-    }
+
+  public static void main(String[] args) {
+    //AppLesson31.main();
+    AppLesson32.main();
+  }
 }

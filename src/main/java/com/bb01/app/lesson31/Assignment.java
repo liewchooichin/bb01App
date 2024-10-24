@@ -1,4 +1,4 @@
-package com.bb01.app;
+package com.bb01.app.lesson31;
 
 /**
  * What is the difference between parsing and casting?
