@@ -14,5 +14,12 @@ Assignment file is in **src/.../lesson31/Assignment.java**.
 
 Assignment file is in **src/.../lesson32/ControlAssignment.java**.
 
+## Lesson 3.3
+
+Assignment file is in **src/.../lesson33/LoopAssignment.java**.
+
+## Lesson 3.4
+
+Assignment file is in **src/.../lesson34/MethodsAssignment.java**.
 
 
