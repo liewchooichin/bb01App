@@ -1,0 +1,7 @@
+---Assignment 3.4---
+998 is even.
+1237 is odd.
+JOHN SMITH
+CHARLIZE DOE
+3.0
+88.5
