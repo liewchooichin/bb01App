@@ -25,9 +25,22 @@ public class AppLesson35 {
     // call static field
     System.out.println(Person.scientificName);
 
-    // count of person
-    System.out.printf("Count of Person instantiated: %d%n", 
-      Person.getPersonCount());
+    // Vending machine
+    System.out.println("\nVending Machine");
+    VendingMachine ntuVendingMachine = new VendingMachine("NTU");
 
+    ntuVendingMachine.insertCoin(1);
+    ntuVendingMachine.selectDrink(Drink.COKE); // should not dispense, insufficient payment
+    ntuVendingMachine.insertCoin(0.5);
+    ntuVendingMachine.selectDrink(Drink.COKE);
+
+    ntuVendingMachine.insertCoin(0.5); // should not dispense, insufficient payment
+    ntuVendingMachine.selectDrink(Drink.WATER);
+    ntuVendingMachine.insertCoin(1);
+    ntuVendingMachine.selectDrink(Drink.WATER);
+
+    ntuVendingMachine.printEarnings();
+    ntuVendingMachine.printTransactions();
+  
   }
 }

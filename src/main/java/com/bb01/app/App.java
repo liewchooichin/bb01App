@@ -14,7 +14,7 @@ public class App {
     //AppLesson32.main();
     //AppLesson33.main();
     //AppLesson34.main();
-    //AppLesson35.main();
-    Lesson35Main.main(); // assignment 3.5
+    AppLesson35.main();
+    //Lesson35Main.main(); // assignment 3.5
   }
 }
