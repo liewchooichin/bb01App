@@ -74,11 +74,11 @@ public class Pet {
     }
     //eat(String food) - prints "'name' loves eating 'food'"
     public void  eat(String food){
-      System.out.printf("%s loves eating %s%n.", this.name, food);
+      System.out.printf("%s loves eating %s.%n", this.name, food);
     }
 
     // sleep() - prints "'name' is currently sleeping"
     public void sleep(){
-      System.out.printf("%s is currently sleeping%n.", this.name);
+      System.out.printf("%s is currently sleeping.%n", this.name);
     }
 }

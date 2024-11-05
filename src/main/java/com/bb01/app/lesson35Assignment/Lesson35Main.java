@@ -8,12 +8,14 @@ public class Lesson35Main {
       dog.call("Woof, woof, woof");
       dog.eat("yummy turkey dinner.");
       dog.sleep();
+      System.out.println(dog);
       // a cat
       Pet cat = new Pet("Kittie", "Domestic short hair",
         "Female", 6, true);
       cat.call("Meow, meow, meow");
       cat.eat("delicious salmon in gravy");
       cat.sleep();
+      System.out.println(cat);
       return;
     }
 }
