@@ -22,4 +22,6 @@ Assignment file is in **src/.../lesson33/LoopAssignment.java**.
 
 Assignment file is in **src/.../lesson34/MethodsAssignment.java**.
 
+## Lesson 3.5
 
+Assignment file is in **src/.../lesson35Assignmnet/**.
