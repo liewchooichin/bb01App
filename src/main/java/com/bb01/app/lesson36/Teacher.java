@@ -6,6 +6,7 @@ public class Teacher extends Person {
   private double salary;
 
   // constructor
+  // during lesson
   public Teacher(){
 
   }
@@ -19,6 +20,11 @@ public class Teacher extends Person {
     this.teacherId = teacherId;
     this.subject = subject;
     this.salary = salary;
+  }
+  // for assignment
+  public Teacher(String name, int age, String gender, String subject){
+    super(name, age, gender);
+    this.subject = subject;
   }
 
   // getters and setters
@@ -42,7 +48,8 @@ public class Teacher extends Person {
   }
   // Methods
   public void introduce(){
-    System.out.printf("Hello, my name is %s and I will be teaching you %s .%n", this.name, this.subject);
+    System.out.printf("Hello, my name is %s and I will be teaching you %s.%n", 
+      this.name, this.subject);
   }
   
   // Override
@@ -51,9 +58,12 @@ public class Teacher extends Person {
     System.out.println("Hello, I am teaching.");
   }
   @Override
-  public void greet() {
-    System.out.println("👋 Hello, my name is " + this.name + " and I am a " + (2023 - this.birthYear) + " year old teacher.");
+  // public void greet() {
+  //   System.out.println("👋 Hello, my name is " + this.name + " and I am a " + (2023 - this.birthYear) + " year old teacher.");
+  // }
+  public void greet(){
+    System.out.printf("Hello, my name is %s. I am a %d years "
+      + "old teachers.%n", this.name, this.age);
   }
-  
-  
+
 }

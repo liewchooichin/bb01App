@@ -16,18 +16,40 @@ public class School
     this.address = address;
   }
 
+  // getters and setters
+  public String getName() {
+    return name;
+  }
+  public void setName(String name) {
+    this.name = name;
+  }
+  public int getNumberOfFloors() {
+    return numberOfFloors;
+  }
+  public void setNumberOfFloors(int numberOfFloors) {
+    this.numberOfFloors = numberOfFloors;
+  }
+  public String getAddress() {
+    return address;
+  }
+  public void setAddress(String address) {
+    this.address = address;
+  }
+  
   // Implements methods of the interface
   @Override
   public void addFloors(int floors) {
     // Auto-generated method stub
     this.numberOfFloors = numberOfFloors + floors;
+    System.out.printf("This school has %d floors.%n", 
+      this.numberOfFloors);
     
   }
   
   @Override
   public void describe() {
     // Auto-generated method stub
-    System.out.printf("This is %s. It has %d floors. Its address is %s.%n", this.name, this.numberOfFloors, this.address);
+    System.out.printf("Name: %s%nAddress:%s%n", this.name, this.address);
   }
  
 }

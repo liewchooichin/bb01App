@@ -11,6 +11,7 @@ public class Student extends Person {
 
 
   // Constructor
+  // during class
   public Student(int studentId, String course, int yearEnrolled, int yearLevel) {
     this.studentId = studentId;
     this.course = course;
@@ -29,6 +30,11 @@ public class Student extends Person {
     this.yearEnrolled = yearEnrolled;
     this.yearLevel = yearLevel;
     this.grades = new ArrayList<Double>();
+  }
+  // for assignment
+  public Student(String name, int age, String gender, int yearLevel){
+    super(name, age, gender);
+    this.yearLevel = yearLevel;
   }
 
   // add getters and setters
@@ -57,7 +63,7 @@ public class Student extends Person {
   }
 
   public int getYearLevel() {
-    return yearEnrolled;
+    return yearLevel;
   }
 
   public void setYearLevel(int yearLevel) {
@@ -94,11 +100,16 @@ public class Student extends Person {
     System.out.printf("%s is a student.%n", this.name);
   }
   @Override
+  // public void greet(){
+  //   System.out.println("👋 Hello, my name is " + this.name + " and I am a " + (2023 - this.birthYear) + " year old student.");  
+  // }
   public void greet(){
-    System.out.println("👋 Hello, my name is " + this.name + " and I am a " + (2023 - this.birthYear) + " year old student.");  
+    System.out.printf("Hello, my name is %s. I am a %d years old student.%n", 
+      this.name, this.age);
   }
   // Methods
   public void introduce(){
-    System.out.printf( "Hello, my name is %s and I am a %d student.%n", this.name, this.yearLevel);
+    System.out.printf( "Hello, my name is %s and I am a year %d student.%n", 
+      this.name, this.yearLevel);
   }
 }

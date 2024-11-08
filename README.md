@@ -25,3 +25,14 @@ Assignment file is in **src/.../lesson34/MethodsAssignment.java**.
 ## Lesson 3.5
 
 Assignment file is in **src/.../lesson35Assignmnet/**.
+
+## Lesson 3.6
+
+Assignment file is in **src/.../lesson36**.
+
+  - Building.java
+  - School.java
+  - Person.java
+  - Teacher.java
+  - Student.java
+  - AppLesson36Assignment.java (main programme)
