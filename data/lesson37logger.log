@@ -1,0 +1,217 @@
+Nov 13, 2024 10:22:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 13, 2024 10:22:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 13, 2024 10:22:44 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: In the finally block.
+Nov 13, 2024 10:22:47 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: In the finally block.
+Nov 13, 2024 10:23:17 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 13, 2024 10:23:17 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 13, 2024 10:23:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not an integer.
+Nov 13, 2024 10:23:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: null
+Nov 13, 2024 10:23:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: In the finally block.
+Nov 13, 2024 10:23:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not a boolean.
+Nov 13, 2024 10:23:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: null
+Nov 13, 2024 10:23:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: In the finally block.
+Nov 13, 2024 10:30:19 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 13, 2024 10:30:19 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 13, 2024 10:30:23 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:30:28 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:30:28 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:31:37 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 13, 2024 10:31:38 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 13, 2024 10:31:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not an integer.
+Nov 13, 2024 10:31:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: {0}
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.readInput(AppLesson37Assignment.java:50)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.main(AppLesson37Assignment.java:15)
+	at com.bb01.app.App.main(App.java:26)
+
+Nov 13, 2024 10:31:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:31:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not a boolean.
+Nov 13, 2024 10:31:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: null
+Nov 13, 2024 10:31:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:31:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:35:36 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 13, 2024 10:35:36 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 13, 2024 10:35:47 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:35:54 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:35:54 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:36:00 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:36:03 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not a boolean.
+Nov 13, 2024 10:36:03 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: null
+Nov 13, 2024 10:36:03 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:36:03 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:36:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not an integer.
+Nov 13, 2024 10:36:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: {0}
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.readInput(AppLesson37Assignment.java:54)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.main(AppLesson37Assignment.java:15)
+	at com.bb01.app.App.main(App.java:26)
+
+Nov 13, 2024 10:36:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:36:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not a boolean.
+Nov 13, 2024 10:36:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: null
+Nov 13, 2024 10:36:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:36:24 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:36:31 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:36:34 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:36:34 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:36:41 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not an integer.
+Nov 13, 2024 10:36:41 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: {0}
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.readInput(AppLesson37Assignment.java:54)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.main(AppLesson37Assignment.java:15)
+	at com.bb01.app.App.main(App.java:26)
+
+Nov 13, 2024 10:36:41 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:36:41 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not a boolean.
+Nov 13, 2024 10:36:41 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: null
+Nov 13, 2024 10:36:41 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:36:41 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:37:23 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 13, 2024 10:37:23 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 13, 2024 10:37:36 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 13, 2024 10:37:36 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 13, 2024 10:37:42 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:37:49 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not a boolean.
+Nov 13, 2024 10:37:49 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: null
+Nov 13, 2024 10:37:49 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:37:49 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:37:54 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:37:57 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:37:57 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:38:02 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not an integer.
+Nov 13, 2024 10:38:02 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: {0}
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.readInput(AppLesson37Assignment.java:54)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.main(AppLesson37Assignment.java:15)
+	at com.bb01.app.App.main(App.java:26)
+
+Nov 13, 2024 10:38:02 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:38:02 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not a boolean.
+Nov 13, 2024 10:38:02 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: null
+Nov 13, 2024 10:38:02 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:38:02 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:40:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 13, 2024 10:40:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 13, 2024 10:40:53 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 13, 2024 10:40:53 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 13, 2024 10:40:58 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:41:04 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:41:04 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 13, 2024 10:41:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not an integer.
+Nov 13, 2024 10:41:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: {0}
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.readInput(AppLesson37Assignment.java:56)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.main(AppLesson37Assignment.java:15)
+	at com.bb01.app.App.main(App.java:26)
+
+Nov 13, 2024 10:41:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 13, 2024 10:41:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not a boolean.
+Nov 13, 2024 10:41:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: null
+Nov 13, 2024 10:41:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 13, 2024 10:41:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.

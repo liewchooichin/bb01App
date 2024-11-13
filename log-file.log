@@ -1,0 +1,18 @@
+Nov 12, 2024 9:42:57 PM com.bb01.app.lesson37.LoggerDemo main
+INFO: App started
+Nov 12, 2024 9:42:57 PM com.bb01.app.lesson37.LoggerDemo main
+SEVERE:  -- Severe --
+Nov 12, 2024 9:42:57 PM com.bb01.app.lesson37.LoggerDemo main
+WARNING: -- Warning --
+Nov 12, 2024 9:42:57 PM com.bb01.app.lesson37.LoggerDemo main
+INFO:  -- Info --
+Nov 12, 2024 9:42:57 PM com.bb01.app.lesson37.LoggerDemo main
+SEVERE: -- Severe --
+Nov 12, 2024 9:42:57 PM com.bb01.app.lesson37.LoggerDemo main
+WARNING: -- Warning --
+Nov 12, 2024 9:42:57 PM com.bb01.app.lesson37.LoggerDemo main
+INFO: -- Info --
+Nov 12, 2024 9:42:57 PM com.bb01.app.lesson37.LoggerDemo main
+SEVERE: 🔴 Index 5 out of bounds for length 4
+Nov 12, 2024 9:42:57 PM com.bb01.app.lesson37.LoggerDemo main
+WARNING: 🟠 Be careful!
