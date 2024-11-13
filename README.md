@@ -36,3 +36,10 @@ Assignment file is in **src/.../lesson36**.
   - Teacher.java
   - Student.java
   - AppLesson36Assignment.java (main programme)
+
+## Lesson 3.7
+
+Assignment file is in **src/.../lesson37Assignment**.
+
+  - AppLesson37Assignment.java
+
