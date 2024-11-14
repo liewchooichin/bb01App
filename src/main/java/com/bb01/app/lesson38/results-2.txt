@@ -1,0 +1,22 @@
+$ java -jar ./target/bb01App-1.0-SNAPSHOT.jar 
+Initial Balance: $1000.0
+🟢 Deposited: $100.0, Current Balance: $1100.0
+🟢 Deposited: $100.0, Current Balance: $1200.0
+🟢 Deposited: $100.0, Current Balance: $1300.0
+🟢 Deposited: $100.0, Current Balance: $1400.0
+🟢 Deposited: $100.0, Current Balance: $1500.0
+🔴 Withdrawn: $200.0, Current Balance: $1300.0
+🔴 Withdrawn: $200.0, Current Balance: $1100.0
+🔴 Withdrawn: $200.0, Current Balance: $900.0
+🔴 Withdrawn: $200.0, Current Balance: $700.0
+🔴 Withdrawn: $200.0, Current Balance: $500.0
+🔴 Withdrawn: $200.0, Current Balance: $300.0
+🔴 Withdrawn: $200.0, Current Balance: $100.0
+🔴 Withdrawn: $200.0, Current Balance: $-100.0
+🔴 Withdrawn: $200.0, Current Balance: $-300.0
+🔴 Withdrawn: $200.0, Current Balance: $-500.0
+🟢 Deposited: $100.0, Current Balance: $-400.0
+🟢 Deposited: $100.0, Current Balance: $-300.0
+🟢 Deposited: $100.0, Current Balance: $-200.0
+🟢 Deposited: $100.0, Current Balance: $-100.0
+🟢 Deposited: $100.0, Current Balance: $0.0

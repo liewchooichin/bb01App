@@ -215,3 +215,44 @@ Nov 13, 2024 10:41:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment r
 WARNING: Enter a boolean value.
 Nov 13, 2024 10:41:09 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
 WARNING: Enter a string value.
+Nov 14, 2024 8:32:02 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Starting the logger.
+Nov 14, 2024 8:32:02 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Instantiating a new console input scanner.
+Nov 14, 2024 8:32:04 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 14, 2024 8:32:07 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 14, 2024 8:32:07 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.
+Nov 14, 2024 8:32:13 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not an integer.
+Nov 14, 2024 8:32:13 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: {0}
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.readInput(AppLesson37Assignment.java:56)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.main(AppLesson37Assignment.java:15)
+	at com.bb01.app.App.main(App.java:26)
+
+Nov 14, 2024 8:32:13 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter an integer value.
+Nov 14, 2024 8:32:13 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+INFO: Input is not a boolean.
+Nov 14, 2024 8:32:13 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+SEVERE: Exception message: {0}
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:947)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextBoolean(Scanner.java:1902)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.readInput(AppLesson37Assignment.java:68)
+	at com.bb01.app.lesson37Assignment.AppLesson37Assignment.main(AppLesson37Assignment.java:15)
+	at com.bb01.app.App.main(App.java:26)
+
+Nov 14, 2024 8:32:13 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a boolean value.
+Nov 14, 2024 8:32:13 PM com.bb01.app.lesson37Assignment.AppLesson37Assignment readInput
+WARNING: Enter a string value.

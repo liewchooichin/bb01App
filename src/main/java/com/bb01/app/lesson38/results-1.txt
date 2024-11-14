@@ -1,0 +1,24 @@
+main: App started.
+main: Hello World!
+Thread-2: Calculating big number using Thread!
+Thread-3: Calculating big number using Runnable!
+Thread-4: Using anonymous thread!
+Thread-5Test runnableA
+Thread-6 Test runnableB
+Thread-7 lambda thread C
+Thread-8 lambda thread calculate big number
+Thread-9 Test runnableB
+Thread-10: sleepyThread is going to sleep.
+Checking for resources ...
+ResourceChecker was interrupted!
+Result: 499999500000
+Result: 4999999950000000
+Result: 79999999800000000
+Thread-1: Completed time intensive task using Runnable!
+Completed Time Intensive Task using Anonymous Class.
+Thread-0: Completed time intensive task using Thread!
+Completed Time Intensive Task using Anonymous Class.
+Completed Time Intensive Task using Anonymous Class.
+Thread-10: sleepyThread wakes up.
+Completed Time Intensive Task using Anonymous Class.
+$ ^C
